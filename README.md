@@ -38,7 +38,7 @@ python3 main.py
 Salida del programa
 <img width="673" height="736" alt="image" src="https://github.com/user-attachments/assets/ce77b5e3-5749-4083-b450-16e1f20cab0a" />
 
-Pruebas realizadas
+## Pruebas realizadas
 
 Se evaluaron diferentes tipos de expresiones:
 
